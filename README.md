@@ -1,4 +1,4 @@
-# php simple shopping cart with stripe built on top of travesary media's framwork for more info: https://github.com/Aivirth/TraversyMVC
+# php simple shopping cart with stripe built on top of travesary media's framework for more info: https://github.com/Aivirth/TraversyMVC
 
 
 
