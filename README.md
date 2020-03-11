@@ -4,6 +4,6 @@
 
 ###place your credentials in the config file
 
-## place the serect key in the products.php file
+## place ypur serect key in the products.php file
 
-## place the public key in the index.php file  
+## place ypur public key in the index.php file  
