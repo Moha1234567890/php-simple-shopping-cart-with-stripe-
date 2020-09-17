@@ -10,4 +10,6 @@
 
 ## if you want to change the app name you **MUST** change it also in public>>.htacess file 
 
+Demo: https://youtu.be/dOK0DgV7qBc
+
 
